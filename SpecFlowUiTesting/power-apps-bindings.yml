@@ -1,0 +1,12 @@
+url: SPECFLOW_URL
+useProfiles: false
+browserOptions: 
+  browserType: Chrome
+  headless: false
+  width: 1920
+  height: 1080
+  startMaximized: false
+users: 
+  - username: SPECFLOW_USERNAME
+    password: SPECFLOW_PASSWORD
+    alias: a salesperson
